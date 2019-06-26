@@ -14,3 +14,9 @@ DataWhale第8期数据分析打卡
 	Task0（1天）：
 		学习使用Git上传文件至Github，Jupyter notebook基础环境搭建
 
+	Task1（2天）：
+		完成4章的学习及作业1，代码实现的过程上传到GitHub
+		参考作业https://www.kesci.com/home/project/59f29f67c5f3f5119527a2cc
+	
+	Task2（2天）： 
+		完成5章的学习，代码实现的过程上传到GitHub
